@@ -1,5 +1,3 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# An inventory System using Scriptable Object
+Made following this tutorial: https://www.youtube.com/watch?v=_IqTeruf3-s
 
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
